@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="_MAIN.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="_MapTool.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\black.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\blue.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\green.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\red.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\white.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\background.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\yellow.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\start.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\purple.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\end.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\yellowswitch.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\redswitch.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\purpleswitch.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\greenswitch.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\dotyellow.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\dotred.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\dotpurple.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\dotgreen.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\dotblue.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\blueswitch.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\bum.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
